@@ -2,8 +2,8 @@
 
 I'm a systems programmer who enjoys working close to the metal — drawn to embedded development, C programming, and low-level architecture.
 
--  Finishing a Bachelor's in Informatics: Robotics and Intelligent Systems
--  Building tools in C: logging systems, graphics backends, minimal APIs
+- Bachelor's in Informatics: Robotics and Intelligent Systems
+- Building tools in C: logging systems, graphics backends, minimal APIs
 - I like building from scratch and I enjoy understanding every layer.
 
 ---
